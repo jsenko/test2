@@ -2,7 +2,7 @@
     "openapi": "3.0.2",
     "info": {
         "title": "Empty API",
-        "version": "1.0.2",
+        "version": "1.0.3",
         "description": "Just an empty API."
     }
 }
